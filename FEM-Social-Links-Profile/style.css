@@ -51,7 +51,7 @@ body {
 
 .photo {
     background: black;
-    background-image: url("https://assets.codepen.io/7326413/joel.png");
+    background-image: url("./assets/images/joel.png");
     background-size: cover;
     width: 100px;
     height: 100px;
